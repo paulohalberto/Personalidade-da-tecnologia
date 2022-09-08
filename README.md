@@ -1,5 +1,5 @@
 # Tim Berners-Lee_Criador_da_World Wide Web
-## Introdução
+## Introdução sobre Tim Berners-Lee
 **Tim Berners-Lee** foi um cientista Britanico, nascido na Inglaterra em 1955. Conhecido por ser o inventor da **_World Wide Web._**
 Em 2004, ele foi premiado com o título de cavaleiro pela Rainha Elizabeth II do Reino Unido e o inaugural Prêmio de Tecnologia do Milênio (€ 1 milhão) pela Fundação Prêmio de Tecnologia Finlandesa. Berners-Lee, já tinha familiaridade em computação, pois seus pais trabalhavam na Ferranti Mark I, o primeiro computador comercial.
 Depois de se formar em 1976 na Universidade de Oxford , Berners-Lee projetou software de computador por dois anos na Plessey Telecommunications Ltd., localizada em Poole, Dorset, Inglaterra. Depois disso, ele ocupou vários cargos na indústria de computadores, incluindo um período de junho a dezembro de 1980 como consultor de engenharia de software na CERN , o laboratório europeu de física de partículas em Genebra. 
