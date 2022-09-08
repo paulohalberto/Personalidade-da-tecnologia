@@ -1,4 +1,4 @@
-# Personalidade-da-tecnologia
+# Tim Berners-Lee_Criador_da_World Wide Web
 ## Introdução
 **Tim Berners-Lee** foi um cientista Britanico, nascido na Inglaterra em 1955. Conhecido por ser o inventor da **_World Wide Web._**
 Em 2004, ele foi premiado com o título de cavaleiro pela Rainha Elizabeth II do Reino Unido e o inaugural Prêmio de Tecnologia do Milênio (€ 1 milhão) pela Fundação Prêmio de Tecnologia Finlandesa. Berners-Lee, já tinha familiaridade em computação, pois seus pais trabalhavam na Ferranti Mark I, o primeiro computador comercial.
